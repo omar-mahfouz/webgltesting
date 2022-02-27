@@ -1,0 +1,148 @@
+ManifestFileVersion: 0
+CRC: 252343994
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99a511bac6e74c9f0ac84ba352f0a82c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2bb7f92db6704780611cc8ad6e837141
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/Models/Interior/Materials/Rough Silver.mat
+- Assets/Assets/Models/Interior/Models/Sofas and tables.fbx
+- Assets/Assets/Models/Interior/Textures/guide ui/registration.png
+- Assets/Assets/Models/Interior/Materials/VIP Event Logo.mat
+- Assets/Assets/Models/Interior/Textures/booths screens/inspiring picto.jpg
+- Assets/Assets/Models/Interior/Textures/guide ui/UI.spriteatlas
+- Assets/Assets/Models/Interior/Materials/Wall Coridor Matt.mat
+- Assets/Assets/Models/Interior/Textures/screen.jpg
+- Assets/Assets/Models/Interior/Materials/Sponsor Screen.mat
+- Assets/Assets/Models/Interior/Models/Props.fbx
+- Assets/Assets/Models/Interior/Materials/Corridor Screen.mat
+- Assets/Assets/Models/Interior/Textures/Ipad Keyboard.png
+- Assets/Assets/Models/Interior/Materials/CrowdChairTop.mat
+- Assets/Assets/Models/Interior/Materials/Corridor Pillars.mat
+- Assets/Assets/Models/Interior/Textures/guide ui/StartText.png
+- Assets/Assets/Models/Interior/Materials/Glass.mat
+- Assets/Assets/Models/Interior/Textures/Poster.jpg
+- Assets/Assets/Models/Interior/Models/Back Levels Chairs Left 03.fbx
+- Assets/Assets/Models/Interior/Materials/Table Stand.mat
+- Assets/Assets/Models/Interior/Textures/UAEU_Texture.png
+- Assets/Assets/Models/Interior/Materials/Sponsor Logo.mat
+- Assets/Assets/Models/Interior/Textures/guide ui/StartPage.png
+- Assets/Assets/Models/Interior/Textures/Icon.png
+- Assets/Assets/Models/Interior/Materials/Booth 07.mat
+- Assets/Assets/Models/Interior/Materials/Booth Screen.mat
+- Assets/Assets/Models/Interior/Materials/Face Emissive.mat
+- Assets/Assets/Models/Interior/Models/Back Levels Chairs Middle 02.fbx
+- Assets/Assets/Models/Interior/Materials/Poster mini.mat
+- Assets/Assets/Models/Interior/Models/Architecture.fbx
+- Assets/Assets/Models/Interior/Textures/arrow.png
+- Assets/Assets/Models/Interior/Materials/Mini Stand.mat
+- Assets/Assets/Models/Interior/Materials/Booth 06.mat
+- Assets/Assets/Models/Interior/Models/Interview Chair.FBX
+- Assets/Assets/Models/Interior/Materials/Sponsor Event Logo Stand.mat
+- Assets/Assets/Models/Interior/Textures/booths screens/freshmen picto.jpg
+- Assets/Assets/Models/Interior/Models/Stair.fbx
+- Assets/Assets/Models/Interior/Materials/Icon.mat
+- Assets/Assets/Models/Interior/Materials/Face Door Opaque.mat
+- Assets/Assets/Models/Interior/Materials/Booth 04.mat
+- Assets/Assets/Models/Interior/Materials/Hallway Door.mat
+- Assets/Assets/Models/Interior/Models/Vip.fbx
+- Assets/Assets/Models/Interior/Materials/GuidingLine.mat
+- Assets/Assets/Models/Interior/Materials/CrowdChairBottom.mat
+- Assets/Assets/Models/Interior/Materials/VIP Ground Corners.mat
+- Assets/Assets/Models/Interior/Textures/booths screens/Preservering picto.jpg
+- Assets/Assets/Models/Interior/Textures/booths screens/Honor roll picto.jpg
+- Assets/Assets/Models/Interior/Textures/booths screens/leading picto.jpg
+- Assets/Assets/Models/Interior/Models/Reception.fbx
+- Assets/Assets/Models/Interior/Materials/Blue Emitter.mat
+- Assets/Assets/Models/Interior/Materials/Sponsor Table.mat
+- Assets/Assets/Models/Interior/Materials/White Emitter.mat
+- Assets/Assets/Models/Interior/Textures/Lights Texture-optimized.png
+- Assets/Assets/Models/Interior/Models/Front Chairs.fbx
+- Assets/Assets/Models/Interior/Materials/Ipad Screen.mat
+- Assets/Assets/Models/Interior/Materials/UAEU ALPHA.mat
+- Assets/Assets/Models/Interior/Textures/booths screens/innovative picto.jpg
+- Assets/Assets/Models/Interior/Materials/Floor Face.mat
+- Assets/Assets/Models/Interior/Materials/Door Lights.mat
+- Assets/Assets/Models/Interior/Materials/Sofa Seat.mat
+- Assets/Assets/Models/Interior/Materials/Side Stage Screen.mat
+- Assets/Assets/Models/Interior/Textures/Floor_Face-Height.png
+- Assets/Assets/Models/Interior/Textures/guide ui/manual.png
+- Assets/Assets/Models/Interior/Materials/Spot Body.mat
+- Assets/Assets/Models/Interior/Models/Stage.fbx
+- Assets/Assets/Models/Interior/Textures/guide ui/booth.png
+- Assets/Assets/Models/Interior/Materials/Booth 05.mat
+- Assets/Assets/Models/Interior/Materials/Interview Area Event Logo.mat
+- Assets/Assets/Models/Interior/Materials/Interview UAEU Label.mat
+- Assets/Assets/Models/Interior/Textures/VIP+Ipad Screen.JPG
+- Assets/Assets/Models/Interior/Materials/Sponsor Event Logo.mat
+- Assets/Assets/Models/Interior/Textures/guide ui/Mouse + keyboard.png
+- Assets/Assets/Models/Interior/Textures/guide ui/entry.png
+- Assets/Assets/Models/Interior/Materials/Face Door.mat
+- Assets/Assets/Models/Interior/Textures/Wall_01.png
+- Assets/Assets/Models/Interior/Materials/Booth Alphaic.mat
+- Assets/Assets/Models/Interior/Materials/Test.mat
+- Assets/Assets/Models/Interior/Materials/Stand Black.mat
+- Assets/Assets/Models/Interior/Textures/Sponsor Event Logo.png
+- Assets/Assets/Models/Interior/Materials/Stage Screen.mat
+- Assets/Assets/Models/Interior/Materials/Sofa Arms.mat
+- Assets/Assets/Models/Interior/Materials/Interview Table Top.mat
+- Assets/Assets/Models/Interior/Textures/Ipad Keyboard.jpg
+- Assets/Assets/Models/Interior/Materials/Booth 01.mat
+- Assets/Assets/Models/Interior/Materials/Corridor Face.mat
+- Assets/Assets/Models/Interior/Materials/Booth 03.mat
+- Assets/Assets/Models/Interior/Materials/Stand Gray.mat
+- Assets/Assets/Models/Interior/Materials/Silver.mat
+- Assets/Assets/Models/Interior/Textures/guide ui/guests.png
+- Assets/Assets/Models/Interior/Textures/Sponsor Txt PNG.png
+- Assets/Assets/Models/Interior/Materials/Booth 02.mat
+- Assets/Assets/Models/Interior/Models/Spotlights.fbx
+- Assets/Assets/Models/Interior/Materials/Dark Glass Inner.mat
+- Assets/Assets/Models/Interior/Materials/Ipad Keyboard.mat
+- Assets/Assets/Models/Interior/Models/Interview area.FBX
+- Assets/Assets/Models/Interior/Textures/booths screens/Athletes picto.jpg
+- Assets/Assets/Models/Interior/Materials/Painted Stairs.mat
+- Assets/Assets/Models/Interior/Textures/Floor_Face-optimized.png
+- Assets/Assets/Models/Interior/Models/Back Level Chairs Right 01.fbx
+- Assets/Assets/Models/Interior/Materials/Spot Emission.mat
+- Assets/Assets/Models/Interior/Materials/DarkMattPlastic.mat
+- Assets/Assets/Models/Interior/Materials/White Walls.mat
+- Assets/Assets/Models/Interior/Materials/DarkRoughMetal.mat
+- Assets/Assets/Models/Interior/Materials/Sponsor Stand Material.mat
+- Assets/Assets/Models/Interior/Materials/Dark Glass.mat
+- Assets/Assets/Models/Interior/Textures/Booth Screen.jpg
+- Assets/Assets/Models/Interior/Materials/Interview Table Colored.mat
+- Assets/Assets/Models/Interior/Textures/guide ui/auto.png
+- Assets/Assets/Models/Interior/Materials/Vip Screen.mat
+- Assets/Assets/Models/Interior/Materials/DarkRoughPlastic.mat
+- Assets/Assets/Models/Interior/Materials/DarkGlossyPlastic.mat
+- Assets/Assets/Models/Interior/Materials/Wall Coridor Reflective.mat
+- Assets/Assets/Models/Interior/Materials/Vip Stage.mat
+Dependencies: []

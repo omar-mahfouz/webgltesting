@@ -1,0 +1,115 @@
+ManifestFileVersion: 0
+CRC: 1300931371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a67f4d64f72636ed770c80c84da2259
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9d38874ea5405374270fe61a05b7cba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/Models/Exterior/Materials/Chrom.mat
+- Assets/Assets/Models/Exterior/Materials/GuidingLine (ex).mat
+- Assets/Assets/Models/Exterior/Materials/Flag_02.mat
+- Assets/Assets/Models/Exterior/Materials/Garden_05.mat
+- Assets/Assets/Models/Exterior/Materials/Painted Main Wall.mat
+- Assets/Assets/Models/Exterior/Models/Exterior.fbx
+- Assets/Assets/Models/Exterior/Textures/Exhibition_Outer_Floor.jpg
+- Assets/Assets/Models/Exterior/Textures/Glass_Norm_NRM.png
+- Assets/Assets/Models/Exterior/Textures/Flag-02.png
+- Assets/Assets/Models/Exterior/Sky/Captured_Sky/6 Faces/Left.tif
+- Assets/Assets/Models/Exterior/Textures/Garden_05.jpg
+- Assets/Assets/Models/Exterior/Materials/Dont Render.mat
+- Assets/Assets/Models/Exterior/Materials/Metal_Segments.mat
+- Assets/Assets/Models/Exterior/Materials/Props_02_GREYX.mat
+- Assets/Assets/Models/Exterior/Materials/OpaqueSix.mat
+- Assets/Assets/Models/Exterior/Textures/Line1.png
+- Assets/Assets/Models/Exterior/Materials/Main Wall Sign.mat
+- Assets/Assets/Models/Exterior/Materials/Metalic Main Wall.mat
+- Assets/Assets/Models/Exterior/Materials/Line1.mat
+- Assets/Assets/Models/Exterior/Materials/Outer Floor.mat
+- Assets/Assets/Models/Exterior/Textures/MetalSegments/MetalSegments_AmbientOcclusionMap.png
+- Assets/Assets/Models/Exterior/Sky/Captured_Sky/6 Faces/Front.tif
+- Assets/Assets/Models/Exterior/Materials/Dark Metal_Segments 1.mat
+- Assets/Assets/Models/Exterior/Materials/Event Logo.mat
+- Assets/Assets/Models/Exterior/Textures/MetalSegments/MetalSegments_SpecularMap.png
+- Assets/Assets/Models/Exterior/Textures/Grass1.jpg
+- Assets/Assets/Models/Exterior/Sky/Crescent_Entrance/pano_d.jpg
+- Assets/Assets/Models/Exterior/Materials/Props_01_Light Material.mat
+- Assets/Assets/Models/Exterior/Materials/Props_01_ALUMINIUN.mat
+- Assets/Assets/Models/Exterior/Materials/Props_02_Material #676.mat
+- Assets/Assets/Models/Exterior/Materials/Flag_01.mat
+- Assets/Assets/Models/Exterior/Materials/Metal_Segments 2.mat
+- Assets/Assets/Models/Exterior/Materials/AboveDoors.mat
+- Assets/Assets/Models/Exterior/Textures/UAEU_Launching_01.png
+- Assets/Assets/Models/Exterior/Materials/Dark UAEU_Launching_02.mat
+- Assets/Assets/Models/Exterior/Materials/Props_02_lambert14.mat
+- Assets/Assets/Models/Exterior/Materials/Flag_01 Two.mat
+- Assets/Assets/Models/Exterior/Materials/BehindGlass.mat
+- Assets/Assets/Models/Exterior/Materials/UAEU_Launching_01.mat
+- Assets/Assets/Models/Exterior/Sky/Crescent_Entrance/pano_r.jpg
+- Assets/Assets/Models/Exterior/Textures/Flag-01.png
+- Assets/Assets/Models/Exterior/Textures/Metal_Wall_Height.png
+- Assets/Assets/Models/Exterior/Textures/ExhibitionFloor-Base.png
+- Assets/Assets/Models/Exterior/Textures/ExhibitionFloor-Gloss.tif
+- Assets/Assets/Models/Exterior/Textures/SegmentedRoof-height.png
+- Assets/Assets/Models/Exterior/Textures/Metal_Wall_Spec+Gloss.tif
+- Assets/Assets/Models/Exterior/Models/Stand.fbx
+- Assets/Assets/Models/Exterior/Sky/Crescent_Entrance/pano_f.jpg
+- Assets/Assets/Models/Exterior/Materials/Metal_Segments 3.mat
+- Assets/Assets/Models/Exterior/Textures/UAEU_Launching_02.png
+- Assets/Assets/Models/Exterior/Models/Flag.fbx
+- Assets/Assets/Models/Exterior/Materials/Window Separator.mat
+- Assets/Assets/Models/Exterior/Textures/Transparent.png
+- Assets/Assets/Models/Exterior/Materials/Flag_02 Two.mat
+- Assets/Assets/Models/Exterior/Textures/Sighn_01.png
+- Assets/Assets/Models/Exterior/Sky/Captured_Sky/6 Faces/Back.tif
+- Assets/Assets/Models/Exterior/Materials/Primary Floor.mat
+- Assets/Assets/Models/Exterior/Textures/MetalSegments-AO.psd
+- Assets/Assets/Models/Exterior/Sky/Crescent_Entrance/pano_u.jpg
+- Assets/Assets/Models/Exterior/Sky/Crescent_Entrance.mat
+- Assets/Assets/Models/Exterior/Sky/Captured_Sky/6 Faces/Down.png
+- Assets/Assets/Models/Exterior/Sky/Captured_Sky/6 Faces/Up.tif
+- Assets/Assets/Models/Exterior/Textures/Glass-NormalMap.png
+- Assets/Assets/Models/Exterior/Textures/MetalSegments/MetalSegments_DisplacementMap.png
+- Assets/Assets/Models/Exterior/Textures/MetalSegments/MetalSegmentsMain.mat
+- Assets/Assets/Models/Exterior/Materials/Glas_Building.mat
+- Assets/Assets/Models/Exterior/Materials/Grass1.mat
+- Assets/Assets/Models/Exterior/Textures/Metal_Wall-Albedo-AO.tif
+- Assets/Assets/Models/Exterior/Sky/Crescent_Entrance/pano_l.jpg
+- Assets/Assets/Models/Exterior/Materials/Building_Wall.mat
+- Assets/Assets/Models/Exterior/Textures/SegmentedRoof-AO.png
+- Assets/Assets/Models/Exterior/Materials/UAEU_Launching_02.mat
+- Assets/Assets/Models/Exterior/Materials/Art.mat
+- Assets/Assets/Models/Exterior/Materials/Opaque Glass.mat
+- Assets/Assets/Models/Exterior/Sky/Captured_Sky/Captured_Spherical-hdrified.hdr
+- Assets/Assets/Models/Exterior/Materials/Art-Light.mat
+- Assets/Assets/Models/Exterior/Materials/Glass_Garden.mat
+- Assets/Assets/Models/Exterior/Sky/Captured_Sky/6 Faces/Right.tif
+- Assets/Assets/Models/Exterior/Materials/FlagPole.mat
+- Assets/Assets/Models/Exterior/Textures/MetalSegments/MetalSegments_NormalMap.png
+- Assets/Assets/Models/Exterior/Sky/Crescent_Entrance/pano_b.jpg
+- Assets/Assets/Models/Exterior/Textures/MetalSegments-Height.psd
+Dependencies:
+- E:/Work Unity Projects/Eyad Jawabra Projects/future-makers-awards-2020/Assets/StreamingAssets/interior_models

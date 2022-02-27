@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 3454275541
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: exterior_models
+      Dependencies:
+        Dependency_0: interior_models
+    Info_1:
+      Name: interior_models
+      Dependencies: {}
